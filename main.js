@@ -13,3 +13,4 @@ if (age >= 0 && age <= 17) {
   alert("Not accepted ");
 }
 
+
